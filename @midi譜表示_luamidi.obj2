@@ -1,4 +1,5 @@
 @midi_luamidi
+--label:カスタムオブジェクト
 --group:入力/タイムライン,false
 --file@midiFile:MIDIファイル
 --track@trackIndex:表示トラック_0=全て,0,32,0,1
